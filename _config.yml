@@ -15,9 +15,10 @@ title: Max Goodman's ePortfolio # This is what shows up in the tab of the browse
 name: Max Goodman
 headline: Computer Engineering student at Georgia Institute of Technology
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computer Engineering major with extensive communication and customer service skills. Enthusiastic about learning and adapting to 
+  a high-paced work environment and collaborating with a multi-disciplinary team. Successfully developed webpage for iVue Robotics 
+  and currently hold a Technician Class Amateur Radio Operator License. Seeking an internship in the defense or aerospace field for 
+  Summer 2027. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
