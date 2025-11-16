@@ -15,5 +15,15 @@ skills:
 main-image: /sonos.png
 ---
 
-# This is another demo
+---
+## Project Progress
+
+## Project Successes and Failures
+### Successes
+
+### Failures
+
+## ECE Skills Gained
+
+## Final Thoughts and Future Improvements
 
