@@ -20,7 +20,7 @@ took much longer than expected to make much progress at all with the design. Whi
 the progression of this project were much more ambitious than what actually happened in reality, I would
 say the goal behind this project was achieved.
 
-<img src="/_projects/sonos-teardown/DPSS_1.png" />
+<img src="/_projects/sonos-teardown/DPSS_1.png" height="33%" />
 
 ## Project Successes and Failures
 ### Successes
