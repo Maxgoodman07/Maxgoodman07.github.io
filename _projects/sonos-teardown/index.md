@@ -10,7 +10,7 @@ skills:
   - LTspice
   - PCB Design
 
-main-image: /sonos.png
+main-image: /DPSS_3.png
 ---
 
 ---
