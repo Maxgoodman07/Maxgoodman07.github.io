@@ -6,11 +6,9 @@ description: <u><h3>Discovery Project Idea</h3></u><br>The idea for my discovery
   to design a custom PCB that met certain parameters. One of those parameters was the power requirement,
   which is what I based my Discovery Project around.
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - Altium Designer
+  - LTspice
+  - PCB Design
 
 main-image: /sonos.png
 ---
@@ -46,4 +44,7 @@ learned how to use important, industry-standard software. Specifically, this pro
 use Altium Designer and LTspice.
 
 ## Final Thoughts and Future Improvements
+The most obvious track forward for this project is to implement crucial components to this PCB design that
+have to deal with logic and output as per YJSP's project outline. While the power management of a PCB is 
+important, the actual function of the PCB cannot be overlooked.
 
