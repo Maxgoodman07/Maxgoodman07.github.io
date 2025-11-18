@@ -40,6 +40,8 @@ development of this design. This includes having to work with components that di
 one another, and once I got all of the components outlined in a schematic, some of the pieces did not have
 associated models that could easily be ran in the simulator.
 
+<img src="/_projects/sonos-teardown/DPSS_2.png" height="33%" />
+
 ## ECE Skills Gained
 Beyond gaining a better understanding of how PCBs work and how a PCB goes from idea to implementation, I also
 learned how to use important, industry-standard software. Specifically, this project taught me how to better
