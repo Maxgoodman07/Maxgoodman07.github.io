@@ -20,6 +20,8 @@ took much longer than expected to make much progress at all with the design. Whi
 the progression of this project were much more ambitious than what actually happened in reality, I would
 say the goal behind this project was achieved.
 
+<img src="/DPSS_1.png" />
+
 ## Project Successes and Failures
 ### Successes
 The biggest success that came from this project was the ability to get the designed PCB to pass the
